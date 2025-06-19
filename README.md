@@ -1,9 +1,8 @@
-BASIC DESCRIPTION : <br>
+BASIC DESCRIPTION :<br> <br>
 Cyber Buddy 🛡️ | A real-time phishing URL and malware file scanner built using Flask and VirusTotal API. Analyze links &amp; files securely with a modern interface.
 
 DETAILED README:
 # 🛡️ Cyber Buddy – Your Online Threat Scanner
-
 **Cyber Buddy** is your go-to web app for checking suspicious websites and files. Whether you're worried about a sketchy link or a random file someone sent you, Cyber Buddy helps you stay safe with real-time threat detection—powered by the VirusTotal API.
 
 We’ve designed it to be simple, fast, and secure. Just paste a URL or upload a file, and we’ll scan it for phishing or malware threats and give you a clear report. No tech jargon—just the info you need.
