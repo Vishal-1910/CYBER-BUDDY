@@ -17,7 +17,7 @@ We’ve designed it to be simple, fast, and secure. Just paste a URL or upload a
 -  No personal data stored—safe and secure by design  
 
 ________________________________________________________________________
-
+<PRE>
 ## Project Layout
 
 CYBER_BUDDY/
@@ -39,7 +39,7 @@ CYBER_BUDDY/
 └── README.md
 
 ---
-
+</PRE>
 ##  How to Use
 
 ### 1. Clone the Repository
