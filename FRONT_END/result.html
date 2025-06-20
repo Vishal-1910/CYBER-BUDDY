@@ -1,1 +1,20 @@
 
+(This one is rendered using Flask’s render_template)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scan Results</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Scan Results for: {{ link }}</h2>
+    <p>✅ Harmless: {{ stats['harmless'] }}</p>
+    <p>⚠️ Suspicious: {{ stats['suspicious'] }}</p>
+    <p>❌ Malicious: {{ stats['malicious'] }}</p>
+    <p>❓ Undetected: {{ stats['undetected'] }}</p>
+    <a href="index.html" class="back">← Back to Home</a>
+  </div>
+</body>
+</html>
